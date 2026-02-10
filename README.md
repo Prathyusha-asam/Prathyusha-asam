@@ -1,5 +1,10 @@
 # 💫 About Me:
-Full Stack Web Applications using React, Angular, java and .Net<br>Open-source projects related to Web Development and Real-Time Applications<br>Improving System Design, Advanced Backend Development, and DevOps<br>Next.js, Microservices Architecture, and Cloud Deployment (AWS/Vercel)<br>Frontend Development, REST APIs, Java, React, Angular, and Firebase<br>I enjoy turning complex problems into simple and user-friendly applications
+Full Stack Developer building scalable web applications using React, Angular, Java, and .NET.<br>
+Interested in open-source contributions related to Web Development and Real-Time Applications.<br>
+Currently strengthening expertise in System Design, Advanced Backend Development, and DevOps.<br>
+Exploring Next.js, Microservices Architecture, and Cloud Deployment (AWS & Vercel).<br>
+Experienced in Frontend Development, REST APIs, Java, React, Angular, and Firebase.<br>
+I enjoy turning complex problems into clean, efficient, and user-friendly solutions.
 
 
 ## 🌐 Socials:
